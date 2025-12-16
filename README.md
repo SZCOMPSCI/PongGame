@@ -15,13 +15,11 @@ A classic Pong game built with Python’s Turtle module. Two players control pad
 ## Usage
 
 1. Clone or download the repository.
-2. Run `pong.py` with Python 3.x:
-
-```bash
-python pong.py
+2. Run `pong.py` with Python
 3. Control paddles using keyboard:
     player 1:W/S
     player 2:Up/Down
+   
 ## Technologies Used
 
 - Python 3.12.2
